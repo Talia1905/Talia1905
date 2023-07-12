@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Talia1905
-- 👀 I’m interested in managing firms
-- 🌱 I’m currently learning in the university pf nairobi
-- 💞️ I’m looking to collaborate on firm managing
+- 👀 I’m interested in computer programming
+- 🌱 I’m currently learning in weekend academy
+- 💞️ I’m looking to collaborate with gbs centre
 - 📫 How to reach me natashanasiyeku@gmail.com
 
 <!---
